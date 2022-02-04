@@ -1,3 +1,4 @@
+The Fruits list:
 apples
 berries
 cherries
